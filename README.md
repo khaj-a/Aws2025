@@ -10,3 +10,8 @@ Letswrapup This Year with Aws
 2.RDS
 3.Differences between Sql & No Sql
 4.Postgresql Concept
+
+#January --3
+1.Route53(DNS Service in AWS, DNS Port    number is 53).
+2.Route53 is Global.
+3.DNS keeps track records of all host     names & IP address.It converts IP to    Host & Host to IP.
