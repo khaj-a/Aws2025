@@ -22,3 +22,14 @@ Letswrapup This Year with Aws
 3.Ec2 --- Instances
 4.CloudFront ---- Distribution
 5.Route53 ---- Hosted Zone.
+
+#January --5
+VPC (Virtual Private Cloud)
+*VPC is Regional.
+6Steps :--
+1.VPC
+2.Internet Gateway
+3.Public Subnet ( Which is exposed to Internet)
+4.Private Subnet.
+5.NAT Gateway.
+6.Routing Tables.
