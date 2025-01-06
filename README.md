@@ -33,3 +33,21 @@ VPC (Virtual Private Cloud)
 4.Private Subnet.
 5.NAT Gateway.
 6.Routing Tables.
+
+#January --6
+1. What is AWS ElastiCache?
+
+AWS ElastiCache is a fully managed caching service by Amazon.
+
+It helps speed up applications by storing frequently accessed data in memory.
+
+2. Why Use ElastiCache?
+
+Reduces latency (data retrieval time).
+
+Improves app performance.
+
+Scales with your app needs.
+
+No need to manage servers yourself.
+
