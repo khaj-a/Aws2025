@@ -51,3 +51,22 @@ Scales with your app needs.
 
 No need to manage servers yourself.
 
+#January --7
+Why RDS?
+AWS RDS (Amazon Relational Database Service) is a fully managed cloud service for relational databases. It automates tasks like hardware provisioning, setup, patching, and backups, allowing users to focus on their applications.
+
+*
+1. Supported Database Engines
+
+Amazon Aurora (MySQL, PostgreSQL compatible)
+
+MySQL
+
+PostgreSQL
+
+MariaDB
+
+Oracle
+
+Microsoft SQL Server
+
