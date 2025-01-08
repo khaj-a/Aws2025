@@ -70,3 +70,24 @@ Oracle
 
 Microsoft SQL Server
 
+
+#January ---8
+1.AWS Fargate is a serverless compute engine for containers. It runs Docker containers without needing to manage servers or clusters.
+
+2. Why Use Fargate?
+
+No EC2 instance management.
+
+Pay only for the resources you use.
+
+Seamless integration with Amazon ECS & EKS.
+
+
+3. How Does It Work?
+
+Define your app in a task definition.
+
+Deploy the task using ECS or EKS.
+
+Fargate provisions and scales resources automatically.
+
